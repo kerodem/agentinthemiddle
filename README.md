@@ -13,6 +13,9 @@ interface for HTTP/1, HTTP/2, and WebSockets.
 
 ``mitmweb`` is a web-based interface for mitmproxy.
 
+agentinthemiddle is an mitmproxy fork automatically scoped down to claude code and codex processes, designed to allow easy readability of outbound agent payloads.
+agentinthemiddle eliminates the internet slowdowns of per-payload decryption. 
+
 ## Installation
 
 The installation instructions are [here](https://docs.mitmproxy.org/stable/overview-installation).
